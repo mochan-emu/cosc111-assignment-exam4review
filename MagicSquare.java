@@ -40,14 +40,14 @@ public class MagicSquare
         reader.close();
 	}
 	
-	// Get the sum of the i-th column
-	public double sumColumn(int i)
+	// Get the sum of the j-th column
+	public double sumColumn(int j)
 	{
 		return 0;
 	}
 	
-	// Get the sum of the j-th row
-	public double sumRow(int j)
+	// Get the sum of the i-th row
+	public double sumRow(int i)
 	{
 		return 0;
 	}
